@@ -28,7 +28,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourname/finance-agent.git
+git clone https://github.com/YUKIQVQ/finance-agent.git
 cd finance-agent
 ```
 
