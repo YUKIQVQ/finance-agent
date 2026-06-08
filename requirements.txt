@@ -1,0 +1,15 @@
+# 核心深度学习框架
+torch>=2.0.0
+
+# 阿里模型社区库 (用于加载Qwen模型)
+modelscope>=1.14.0
+transformers>=4.30.0
+
+# 金融数据获取库
+akshare>=1.10.0
+
+# 数据处理基础库
+pandas>=2.0.0
+
+# 其他工具
+colorama>=0.4.6 ; sys_platform == 'win32'  # Windows终端颜色支持
